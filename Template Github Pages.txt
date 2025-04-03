@@ -1,0 +1,67 @@
+---
+title: "Juan's Personal Branding"
+layout: single
+permalink: /
+---
+
+# 👋 Hi, I'm Juan!
+
+💻 **Aspiring Software Developer | AI Enthusiast**  
+📍 Batam, Indonesia  
+📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-github)
+
+---
+
+## 🎓 Education
+
+- **Politeknik Negeri Batam**  
+  _Teknik Informatika (IT) | 2023 - Sekarang_
+- **SMA XYZ, Batam**  
+  _Jurusan IPA | 2020 - 2023_
+
+---
+
+## 🚀 Projects
+
+### 1. **Aplikasi Rumah Susun** (PBL Project)  
+🔹 Stack: PHP, Laravel, MySQL  
+🔹 Deskripsi: Aplikasi pengelolaan rumah susun untuk pemerintah, mencakup CRUD, laporan, API JSON, dll.  
+🔹 Repo: [GitHub Repo](https://github.com/your-repo)
+
+### 2. **Website Gereja**  
+🔹 Stack: HTML, CSS, JavaScript  
+🔹 Deskripsi: Website untuk gereja dengan tampilan modern dan fitur informasi ibadah.  
+🔹 Repo: [GitHub Repo](https://github.com/your-repo)
+
+### 3. **Aplikasi Chord Lagu Gereja**  
+🔹 Stack: React.js, Firebase  
+🔹 Deskripsi: Aplikasi berbasis web untuk menyimpan dan menampilkan chord lagu gereja.
+🔹 Repo: [GitHub Repo](https://github.com/your-repo)
+
+---
+
+## 🛠 Skills
+
+### **Programming Languages**
+- Python
+- JavaScript
+- PHP
+
+### **Tools & Frameworks**
+- Laravel
+- React.js
+- MySQL
+- Git & GitHub
+
+### **Soft Skills**
+- Problem Solving
+- Teamwork & Collaboration
+- Communication
+
+---
+
+## 📩 Get in Touch
+
+💬 Jangan ragu untuk menghubungi saya melalui LinkedIn atau email jika ingin berkolaborasi!  
+🚀 Let's build something amazing together! 😊
